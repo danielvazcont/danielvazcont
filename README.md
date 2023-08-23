@@ -48,5 +48,5 @@ and many more on the way...
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/danielvazquezop7@outlook.com-44a3f1?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=101010)](mailto:danielvazquezop7@outlook.com)
-[![Email](https://img.shields.io/badge/danierfl25@gmail.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danierfl25@gmail.com)
+[![Email](https://img.shields.io/badge/danierfl24@gmail.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danierfl24@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-72ae2d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jos%C3%A9-daniel-v%C3%A1zquez-franco-28039b210/)
