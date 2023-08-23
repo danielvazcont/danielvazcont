@@ -1,5 +1,3 @@
-# 👋 Hi! , my name is Daniel Vázquez
-
 <div align="center">
   <a href="https://postimages.org/" target="_blank">
     <img src="https://i.postimg.cc/RVKLKmKL/banner.gif" alt="banner">
