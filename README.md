@@ -20,12 +20,12 @@ I like programming and I am constantly learning new technologies.
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Arduino](https://img.shields.io/badge/Arduino Code-00878F?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
+[![Arduino](https://img.shields.io/badge/Arduino_Code-00878F?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
 </br>
 
 [![reactjs](https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![nextjs](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
-[![Boostrap](https://img.shields.io/badge/bootstrap -7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Boostrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 </br>
 
 [![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
