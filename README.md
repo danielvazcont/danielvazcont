@@ -4,7 +4,7 @@
   </a>
 </div>
 
-### Hi!, I am a software development engineer focused on the backend, I have been working as a freelancer and developing projects to enrich my abilities
+### Hi! 👋 , I am a software development engineer focused on the backend, I have been working as a freelancer and developing projects to enrich my abilities
 
 
 I like programming and I am constantly learning new technologies.
