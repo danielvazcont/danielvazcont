@@ -9,6 +9,11 @@
 
 I like programming and I am constantly learning new technologies.
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@KoterMF/30-nites-of-code)  
+  ![@KoterMF #30NitesOfCode](https://www.codedex.io/api/petStatus?user=KoterMF)
+
+
 ## Skills:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
