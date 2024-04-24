@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://postimages.org/" target="_blank">
-    <img src="https://i.postimg.cc/RVKLKmKL/banner.gif" alt="banner">
+    <img src="https://i.postimg.cc/Y98BX4sc/banner.gif" alt="banner">
   </a>
 </div>
 
